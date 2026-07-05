@@ -1,0 +1,9 @@
+
+cd ~/workspace/github/node-test/src
+
+-----------------------------------
+
+node thread-safe.js
+
+node thread-safe-error.js
+
